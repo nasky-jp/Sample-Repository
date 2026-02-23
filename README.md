@@ -4,3 +4,4 @@ git practice
 ｶﾝ ←半角ｶﾀｶﾅにしたとて3ﾊﾞｲﾄ！
 sub editted
 master edittion
+for PR edition
